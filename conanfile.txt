@@ -1,0 +1,6 @@
+[requires]
+gtest/cci.20210126
+glog/0.6.0
+
+[generators]
+cmake
